@@ -1,0 +1,8 @@
+-sprite de explosiòn de los ovnis                     <========== 
+-sprite de algo metalico en las columnas (?)          <========== 
+-compatibilidad con el pulsador (POSIBLEMENTE LISTO)  <==========
+-sonido de bala y explosiòn (opcional (?))
+ESTA TODO LISTO LO DE ARRIBA
+/////////////////////////////////////////////////////////////////
+
+-Pistola de cartòn (?)                                <=========
